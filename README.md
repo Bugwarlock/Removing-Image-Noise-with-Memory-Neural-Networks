@@ -1,2 +1,2 @@
 # Removing Image Noise with Memory Neural Networks
-In this project, we removed noise which is added to the MNITS numbers datast with memory neural networks such as Hopfield.
+In this project, we removed noise which is added to the MNITS numbers datast with memory neural networks such as Hopfield. The goal of this project was recovering the original photo of a damaged one. This project is done as a computer assignment of "Neural Networkds and Deep Learning (NNDL)" course. The report is in Persion but all the results are presented in English.
